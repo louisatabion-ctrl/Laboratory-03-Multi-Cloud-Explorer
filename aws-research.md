@@ -7,7 +7,8 @@ Amazon Web Services (AWS) is a leading cloud platform launched in 2006. It provi
 AWS operates in 30+ regions worldwide, each with multiple availability zones to ensure redundancy and high availability.
 
 ## Cloud Management Console
-![AWS Homepage Screenshot]<img width="1918" height="1020" alt="Screenshot 2026-08-17 150258" src="https://github.com/user-attachments/assets/886860a7-c4ed-437c-a4b8-2518f845fc8a" />
+![AWS Homepage Screenshot]<img width="1911" height="917" alt="Screenshot 2026-08-17 150447" src="https://github.com/user-attachments/assets/00b86496-6f4b-401f-9a4f-6ac3dbc6788d" />
+
 
 The AWS Management Console is a web-based interface for managing services, resources, and billing.
 
