@@ -29,9 +29,25 @@ The goal is to evaluate their core services, compare strengths, and recommend th
 8. Mission Reflection – Write a 250–350 word reflection.
 
 ## Screenshots
-All evidence (console screenshots, KillerCoda terminal, GitHub commits) are stored in the `screenshots` folder.
+All evidence (console screenshots, KillerCoda terminal, GitHub commits) is stored in the `screenshots` folder.
 
 ## Author
 Prepared by: **Tabion**  
 Course: Cloud Computing Portfolio – Laboratory 03  
 Institution: CloudNova Technologies (Simulation)
+
+---
+
+## Linux Investigation
+Using KillerCoda Playground, I gathered system information with Linux commands:
+
+- **Operating System:** `uname -a`  
+- **CPU Info:** `lscpu`  
+- **Memory:** `free -h`  
+- **Disk Space:** `df -h`  
+
+### Cloud Hosting Options
+- **AWS:** EC2  
+- **Azure:** Virtual Machines  
+- **GCP:** Compute Engine
+
