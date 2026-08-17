@@ -7,7 +7,7 @@ Microsoft Azure is a cloud computing platform launched in 2010. It provides a wi
 Azure operates in more than 60 regions worldwide, with multiple availability zones in each region. This extensive coverage makes Azure one of the most globally distributed cloud providers.
 
 ## Cloud Management Console
-![Azure Homepage Screenshot](../screenshots/azure-homepage.png)  
+![Azure Homepage Screenshot](screenshots/azure-homepage.png)  
 The Azure Portal is a web-based interface that allows users to manage resources, monitor services, and configure applications.
 
 ## Core Services
