@@ -7,7 +7,7 @@ Google Cloud Platform (GCP), launched in 2008, is a suite of cloud services desi
 GCP operates in 35+ regions worldwide, each with multiple availability zones. Its infrastructure is built on Google’s private global fiber network, ensuring high performance and low latency.
 
 ## Cloud Management Console
-![GCP Homepage Screenshot](../screenshots/gcp-homepage.png)  
+![GCP Homepage Screenshot](screenshots/gcp-homepage.png)
 The Google Cloud Console is a web-based interface for managing projects, resources, and billing.
 
 ## Core Services
